@@ -1,14 +1,14 @@
 # Twitter-sphere
-* a digital ball *
+*a digital ball*
 
 ### Function
 
 - Twitter Client
 
--Aggregator
--Data Analysis
--Data Visualiztion
--Bot
+- Aggregator
+- Data Analysis
+- Data Visualiztion
+- Bot
 
 ### Technologies
 
