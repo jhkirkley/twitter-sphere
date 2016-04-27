@@ -4,10 +4,9 @@
 ### Function
 
 - Twitter Client
-
 - Aggregator
 - Data Analysis
-- Data Visualiztion
+- Data Visualization
 - Bot
 
 ### Technologies
